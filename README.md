@@ -1,7 +1,13 @@
 # K&Co. — Cloud Spend Viewer (Frontend solution)
 
 # photos os web app K&Co. — Cloud Spend Viewer (Frontend solution)
-<img width="761" height="254" alt="image" src="https://github.com/user-attachments/assets/6adc636f-b12a-42b7-91f0-c34b75ae264b" />
+<img width="749" height="398" alt="image" src="https://github.com/user-attachments/assets/045b3966-8905-458f-829c-af514efc5d0a" />
+<img width="610" height="402" alt="image" src="https://github.com/user-attachments/assets/44ffbb6b-e974-4d89-b3ac-07d72aca9296" />
+<img width="610" height="400" alt="image" src="https://github.com/user-attachments/assets/33fddaa3-7232-4620-978e-55952262464a" />
+<img width="609" height="405" alt="image" src="https://github.com/user-attachments/assets/b39fe6e2-451f-4954-997a-52d6992aa7b4" />
+
+
+
 
 
 ## What
