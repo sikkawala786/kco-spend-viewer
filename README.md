@@ -2,6 +2,16 @@
 
 ## What
 A small frontend app showcasing cloud spend data with filters, sorting, summary, and monthly chart.
+A lightweight cloud spend visualization dashboard built for the K&Co. Full-Stack Engineer assignment.  
+This project processes AWS/GCP billing data and displays:
+
+- Monthly Spend Trends
+- Spend by Team
+- Spend by Cloud Provider
+- Top 5 Costly Services
+- Cost Anomaly Detection
+- Trend Indicators (Up/Down)
+- Filtering + Export + Draft Features
 
 ## Tech
 React + Vite, Tailwind CSS, Recharts.
@@ -19,28 +29,10 @@ React + Vite, Tailwind CSS, Recharts.
 - Summary card and monthly spend chart
 - Row detail modal
 
-# KCO Spend Viewer
-
-A lightweight cloud spend visualization dashboard built for the K&Co. Full-Stack Engineer assignment.  
-This project processes AWS/GCP billing data and displays:
-
-- Monthly Spend Trends
-- Spend by Team
-- Spend by Cloud Provider
-- Top 5 Costly Services
-- Cost Anomaly Detection
-- Trend Indicators (Up/Down)
-- Filtering + Export + Draft Features
-
----
-
 ## 🚀 Live Demo (Vercel)
 
 🔗 **Live App:** https://kco-cloud-spend-tasnim-li8zch9xd-tasnims-projects-6f5e8257.vercel.app/
 
-*(Replace the link above with your deployed Vercel URL)*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -50,11 +42,6 @@ This project processes AWS/GCP billing data and displays:
 - Node.js (for CSV → JSON script)  
 - Deployed on Vercel  
 
----
-
-## 📁 Project Structure
-
----
 
 ## ▶️ How to Run Locally
 
