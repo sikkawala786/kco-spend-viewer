@@ -36,7 +36,7 @@ This project processes AWS/GCP billing data and displays:
 
 ## 🚀 Live Demo (Vercel)
 
-🔗 **Live App:** https://YOUR-VERCEL-APP-NAME.vercel.app/
+🔗 **Live App:** https://kco-cloud-spend-tasnim-li8zch9xd-tasnims-projects-6f5e8257.vercel.app/
 
 *(Replace the link above with your deployed Vercel URL)*
 
@@ -53,4 +53,13 @@ This project processes AWS/GCP billing data and displays:
 ---
 
 ## 📁 Project Structure
+
+---
+
+## ▶️ How to Run Locally
+
+```bash
+npm install
+npm run dev
+
 
