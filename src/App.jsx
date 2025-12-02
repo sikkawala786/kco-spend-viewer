@@ -140,14 +140,22 @@ export default function App() {
         <Filters filters={filters} setFilters={setFilters} data={data} onExport={() => exportData({ format: "csv" })} />
 
         {/* Summary + Trend */}
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 mt-6">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mt-6">
           <div className="lg:col-span-3">
             <SummaryCards data={filtered} />
           </div>
+ </div>
           <div>
+            <br></br>
+           <p>Monthly Spend Trend
+Shows how your cloud spending changed compared to the previous month.
+A red upward arrow means spend increased, while a green downward arrow means costs decreased.
+This helps you quickly understand the direction of spend and detect early patterns.</p>
+<br></br>
+
             <TrendCard data={filtered} />
           </div>
-        </div>
+       
 
         {/* Monthly chart */}
         <MonthlyChart data={filtered} />
@@ -161,6 +169,11 @@ export default function App() {
 
         {/* Anomalies */}
         <div className="mt-6">
+           <p>Cost Anomaly Detector
+Flags unusual spikes or drops in monthly cloud spending.
+An anomaly indicates a significant change (more than ±30%), helping you quickly identify unexpected behavior that may require attention.</p>
+<br></br>
+         
           <AnomalyList data={filtered} thresholdPercent={30} />
         </div>
 
