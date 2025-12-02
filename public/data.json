@@ -1,0 +1,2402 @@
+[
+  {
+    "date": "2025-01-01",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 120.82
+  },
+  {
+    "date": "2025-01-01",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 220.04
+  },
+  {
+    "date": "2025-01-01",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 252.52
+  },
+  {
+    "date": "2025-01-01",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 385.14
+  },
+  {
+    "date": "2025-01-01",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 372.17
+  },
+  {
+    "date": "2025-01-01",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 40.02
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 201
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 127.15
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 394.45
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 145.95
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 137.16
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 452.12
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 17.9
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 208.89
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 205.83
+  },
+  {
+    "date": "2025-01-02",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 181
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 98.12
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 425.99
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 71
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 13.58
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 51.78
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 101.89
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 63.5
+  },
+  {
+    "date": "2025-01-03",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 186.65
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 32.33
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 166.62
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 48.3
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 346.67
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 150.95
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 24.09
+  },
+  {
+    "date": "2025-01-04",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 136.83
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 129.57
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 59.88
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 51.07
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 429.95
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 3.18
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 22.46
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 394.07
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 107.58
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 90.04
+  },
+  {
+    "date": "2025-01-05",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 198.41
+  },
+  {
+    "date": "2025-01-06",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 33.32
+  },
+  {
+    "date": "2025-01-06",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 59.98
+  },
+  {
+    "date": "2025-01-06",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 39.47
+  },
+  {
+    "date": "2025-01-06",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 93.19
+  },
+  {
+    "date": "2025-01-06",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 41.2
+  },
+  {
+    "date": "2025-01-06",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 353.96
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": -3.45
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 142.34
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 19.15
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 367.7
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 141.65
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 14.02
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 109.29
+  },
+  {
+    "date": "2025-01-07",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 169.79
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 204.93
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 332.78
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 380.09
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 159.48
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 62.31
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 110.49
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 19.03
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 99.56
+  },
+  {
+    "date": "2025-01-08",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 199.02
+  },
+  {
+    "date": "2025-01-09",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 93.39
+  },
+  {
+    "date": "2025-01-09",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": -0.46
+  },
+  {
+    "date": "2025-01-09",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 90.93
+  },
+  {
+    "date": "2025-01-09",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 2.17
+  },
+  {
+    "date": "2025-01-09",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 136.11
+  },
+  {
+    "date": "2025-01-09",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 68.28
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 80.37
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 39.5
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 60.42
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 170.51
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 11.95
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 106.96
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 65.87
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 390.92
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 395.68
+  },
+  {
+    "date": "2025-01-10",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 22.03
+  },
+  {
+    "date": "2025-01-11",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 85.24
+  },
+  {
+    "date": "2025-01-11",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 48.59
+  },
+  {
+    "date": "2025-01-11",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 9.47
+  },
+  {
+    "date": "2025-01-11",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 151.03
+  },
+  {
+    "date": "2025-01-11",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 34.26
+  },
+  {
+    "date": "2025-01-11",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 22.02
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 43.37
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 13.6
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 476.03
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 375.17
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 81.35
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 142.41
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 100.86
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 17.04
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 311.12
+  },
+  {
+    "date": "2025-01-12",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 84.42
+  },
+  {
+    "date": "2025-01-13",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 18.04
+  },
+  {
+    "date": "2025-01-13",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 21.77
+  },
+  {
+    "date": "2025-01-13",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 172.58
+  },
+  {
+    "date": "2025-01-13",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 73.59
+  },
+  {
+    "date": "2025-01-13",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 76.32
+  },
+  {
+    "date": "2025-01-13",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 81.96
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 67.6
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 21.82
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 44.15
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 136.87
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 3.72
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 118.19
+  },
+  {
+    "date": "2025-01-14",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 422.99
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 109.8
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 111.91
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 53.97
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 14.78
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 145.36
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 92.1
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 71.37
+  },
+  {
+    "date": "2025-01-15",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 74.38
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 27.48
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 35.75
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 10.14
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 114.17
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 67.95
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 12.85
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 72.76
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 44.68
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 57.21
+  },
+  {
+    "date": "2025-01-16",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 475.83
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 371.5
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 11.66
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 133.65
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 180.72
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 80.2
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 17.02
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 80.92
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 25.53
+  },
+  {
+    "date": "2025-01-17",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 7.87
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 89.8
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 109.55
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 88.21
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 157.84
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 75.65
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 439.28
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 54.02
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 160.97
+  },
+  {
+    "date": "2025-01-18",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 180.41
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 366.1
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 61.54
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 12.73
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 82.94
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 82.36
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 206.82
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 94.65
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 3.77
+  },
+  {
+    "date": "2025-01-19",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 78.71
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 151.34
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 81.17
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 175.83
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 89.19
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 55.42
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 122.39
+  },
+  {
+    "date": "2025-01-20",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 425.42
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 141.09
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 180.47
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 85.17
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": -0.16
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 68.24
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 160.92
+  },
+  {
+    "date": "2025-01-21",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 30.6
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 11.64
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 454.19
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 53.7
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 195.47
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 198.14
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 72.91
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 48.08
+  },
+  {
+    "date": "2025-01-22",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 171.51
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 57.95
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 153.92
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 15.83
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 162.92
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 146.97
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 36.53
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 128.1
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 161.11
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 20.27
+  },
+  {
+    "date": "2025-01-23",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 85.86
+  },
+  {
+    "date": "2025-01-24",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 55.3
+  },
+  {
+    "date": "2025-01-24",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 49.16
+  },
+  {
+    "date": "2025-01-24",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 18.13
+  },
+  {
+    "date": "2025-01-24",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 80.4
+  },
+  {
+    "date": "2025-01-24",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 133.71
+  },
+  {
+    "date": "2025-01-24",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 37.94
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 41.62
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 137.38
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": -2.97
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 51.13
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 355.37
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 423.22
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 49.44
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 406.17
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 144.39
+  },
+  {
+    "date": "2025-01-25",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 141.47
+  },
+  {
+    "date": "2025-01-26",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 168.72
+  },
+  {
+    "date": "2025-01-26",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 379.58
+  },
+  {
+    "date": "2025-01-26",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 7.69
+  },
+  {
+    "date": "2025-01-26",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": -8.49
+  },
+  {
+    "date": "2025-01-26",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 72.43
+  },
+  {
+    "date": "2025-01-26",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 35.02
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 46.51
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 386.68
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 378.83
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 332.49
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 13.25
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 157.87
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 300.21
+  },
+  {
+    "date": "2025-01-27",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 11.09
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 357.49
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 143.01
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 43.43
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 103.79
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 116.95
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 39.18
+  },
+  {
+    "date": "2025-01-28",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": -5.34
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 149.36
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 13.91
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 118.86
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 130.64
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 82.67
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 437.81
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 129.79
+  },
+  {
+    "date": "2025-01-29",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 58.04
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 69.83
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 82.81
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 26.53
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 186.54
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 61.96
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 140.11
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 89.67
+  },
+  {
+    "date": "2025-01-30",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 183.42
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 100.91
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 170.39
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 158.31
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 146.37
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 51.75
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 68.29
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 104.64
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 185.04
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 118.22
+  },
+  {
+    "date": "2025-01-31",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 62.37
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 58.41
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 168.08
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 24.35
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 16.36
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 266.09
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 42.01
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 12.26
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 25.31
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 184.39
+  },
+  {
+    "date": "2025-02-01",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 414.59
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 198.94
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 104.09
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 9.98
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 202.61
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "staging",
+    "cost_usd": 55.6
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 97.68
+  },
+  {
+    "date": "2025-02-02",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 350.76
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 180.16
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 78.13
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 28.79
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 25.82
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 1.53
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 83.52
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 68.66
+  },
+  {
+    "date": "2025-02-03",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 118.03
+  },
+  {
+    "date": "2025-02-04",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 146.51
+  },
+  {
+    "date": "2025-02-04",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 70.23
+  },
+  {
+    "date": "2025-02-04",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 178.14
+  },
+  {
+    "date": "2025-02-04",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 21.67
+  },
+  {
+    "date": "2025-02-04",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "dev",
+    "cost_usd": 20.96
+  },
+  {
+    "date": "2025-02-04",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 93.11
+  },
+  {
+    "date": "2025-02-05",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 76.26
+  },
+  {
+    "date": "2025-02-05",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "prod",
+    "cost_usd": 19.39
+  },
+  {
+    "date": "2025-02-05",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 22.92
+  },
+  {
+    "date": "2025-02-05",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 71.58
+  },
+  {
+    "date": "2025-02-05",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 207.96
+  },
+  {
+    "date": "2025-02-05",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Data",
+    "env": "staging",
+    "cost_usd": 4.72
+  },
+  {
+    "date": "2025-02-06",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 120.66
+  },
+  {
+    "date": "2025-02-06",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 13.5
+  },
+  {
+    "date": "2025-02-06",
+    "cloud_provider": "AWS",
+    "service": "Lambda",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 21.49
+  },
+  {
+    "date": "2025-02-06",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Data",
+    "env": "dev",
+    "cost_usd": 36.63
+  },
+  {
+    "date": "2025-02-06",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 38.45
+  },
+  {
+    "date": "2025-02-06",
+    "cloud_provider": "AWS",
+    "service": "S3",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 28.49
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 86.69
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 78
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 139.95
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Core",
+    "env": "staging",
+    "cost_usd": 43.66
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Web",
+    "env": "dev",
+    "cost_usd": 133.57
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "RDS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 78.18
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "EKS",
+    "team": "Web",
+    "env": "prod",
+    "cost_usd": 135.68
+  },
+  {
+    "date": "2025-02-07",
+    "cloud_provider": "AWS",
+    "service": "EC2",
+    "team": "Core",
+    "env": "prod",
+    "cost_usd": 380.3
+  }
+]

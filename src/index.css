@@ -1,0 +1,82 @@
+/* src/index.css */
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #f8fafc;
+  color: #1f2937;
+}
+
+/* card baseline */
+.card {
+  background: white;
+  padding: 1.25rem;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.08);
+}
+
+/* utilities used in components */
+.table-head { background: #f1f5f9; }
+.table-row { border-bottom: 1px solid #e5e7eb; transition: 0.15s; }
+.table-row:hover { background: #f8fafc; }
+
+.app-container {
+  max-width: 1120px;
+  margin: auto;
+  padding: 1rem;
+}
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-body {
+  background: white;
+  max-width: 480px;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+/* ===== BUTTONS ===== */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.55rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.15s ease;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background: #4f46e5;      /* Indigo - brand color */
+  color: white;
+}
+.btn-primary:hover {
+  background: #4338ca;
+}
+
+.btn-ghost {
+  background: white;
+  border: 1px solid #d1d5db;
+  color: #374151;
+}
+.btn-ghost:hover {
+  background: #f3f4f6;
+}
+
+.btn-warning {
+  background: #facc15;   /* Yellow */
+  color: #1f2937;
+}
+.btn-warning:hover {
+  background: #eab308;
+}
