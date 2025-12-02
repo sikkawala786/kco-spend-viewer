@@ -1,5 +1,9 @@
 # K&Co. — Cloud Spend Viewer (Frontend solution)
 
+# photos os web app K&Co. — Cloud Spend Viewer (Frontend solution)
+<img width="761" height="254" alt="image" src="https://github.com/user-attachments/assets/6adc636f-b12a-42b7-91f0-c34b75ae264b" />
+
+
 ## What
 A small frontend app showcasing cloud spend data with filters, sorting, summary, and monthly chart.
 A lightweight cloud spend visualization dashboard built for the K&Co. Full-Stack Engineer assignment.  
@@ -48,5 +52,6 @@ React + Vite, Tailwind CSS, Recharts.
 ```bash
 npm install
 npm run dev
+
 
 
