@@ -18,3 +18,39 @@ React + Vite, Tailwind CSS, Recharts.
 - Table with filters (cloud/team/env) and sorting
 - Summary card and monthly spend chart
 - Row detail modal
+
+# KCO Spend Viewer
+
+A lightweight cloud spend visualization dashboard built for the K&Co. Full-Stack Engineer assignment.  
+This project processes AWS/GCP billing data and displays:
+
+- Monthly Spend Trends
+- Spend by Team
+- Spend by Cloud Provider
+- Top 5 Costly Services
+- Cost Anomaly Detection
+- Trend Indicators (Up/Down)
+- Filtering + Export + Draft Features
+
+---
+
+## 🚀 Live Demo (Vercel)
+
+🔗 **Live App:** https://YOUR-VERCEL-APP-NAME.vercel.app/
+
+*(Replace the link above with your deployed Vercel URL)*
+
+---
+
+## 🛠️ Tech Stack
+
+- React + Vite  
+- TailwindCSS  
+- Recharts  
+- Node.js (for CSV → JSON script)  
+- Deployed on Vercel  
+
+---
+
+## 📁 Project Structure
+
